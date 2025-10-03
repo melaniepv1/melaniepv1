@@ -1,6 +1,6 @@
-# ¡Hola! Soy Melanie Parra 
+# Hi, I´m Melanie Parra 
 
-🎓 Estudiante de Administración de Tecnologías de Información en el TEC
+🎓 IT Management Student at TEC
 
 ---
 
@@ -20,5 +20,11 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=melaniepv1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melaniepv1&layout=compact&theme=radical)
 
 ---
