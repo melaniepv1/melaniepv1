@@ -1,7 +1,6 @@
 # Hi, I´m Melanie Parra 
 
 🎓 IT Management Student at TEC
-💡 Passionate about bridging technology with real-world impact
 
 ---
 
